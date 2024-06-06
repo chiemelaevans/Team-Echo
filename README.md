@@ -67,7 +67,7 @@ The following models were used:
 **Naive Bayes**: A probabilistic model based on Bayes' theorem, assuming independence between features.
 
 ## Results
-The models were evaluated using metrics such as accuracy, precision, recall, and F1-score. The performance comparison shows that each model has its strengths and weaknesses depending on the feature relationships and class separability in the dataset.
+The models were evaluated using metrics such as accuracy, precision, recall, and F1-score. The performance comparison shows that each model has its strengths and weaknesses depending on the feature relationships and class separability in the dataset. For this project, the random forest was deployed.
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. You can also open issues for any bugs or feature requests.
